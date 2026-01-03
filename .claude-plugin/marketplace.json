@@ -1,0 +1,14 @@
+{
+  "name": "android-interview-plugins",
+  "owner": {
+    "name": "z3"
+  },
+  "plugins": [
+    {
+      "name": "android-interview",
+      "source": ".",
+      "description": "Android interview toolkit with MVI architecture, repository patterns, and interview-mode workflows",
+      "version": "1.0.0"
+    }
+  ]
+}

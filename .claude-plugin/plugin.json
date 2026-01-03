@@ -1,0 +1,9 @@
+{
+  "name": "android-interview",
+  "description": "Android interview toolkit with MVI architecture, repository patterns, and interview-mode workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "z3"
+  },
+  "keywords": ["android", "interview", "mvi", "compose", "jetpack"]
+}
