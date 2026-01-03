@@ -6,7 +6,7 @@ A Claude Code plugin that provides Android development guidelines, architecture 
 
 ```bash
 # Add the marketplace
-/plugin marketplace add yourgithub/android-interview-plugin
+/plugin marketplace add ggz23/android-interview-plugin
 
 # Install the plugin
 /plugin install android-interview

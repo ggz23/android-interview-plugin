@@ -3,7 +3,8 @@
   "description": "Android interview toolkit with MVI architecture, repository patterns, and interview-mode workflows",
   "version": "1.0.0",
   "author": {
-    "name": "z3"
+    "name": "ggz23"
   },
+  "repository": "https://github.com/ggz23/android-interview-plugin",
   "keywords": ["android", "interview", "mvi", "compose", "jetpack"]
 }
