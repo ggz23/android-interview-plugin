@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "android-interview",
-      "source": ".",
+      "source": "./",
       "description": "Android interview toolkit with MVI architecture, repository patterns, and interview-mode workflows",
       "version": "1.0.0"
     }
